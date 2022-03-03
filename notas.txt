@@ -1,0 +1,11 @@
+Caderneta com as notas dos alunos 
+
+O aluno que apresenta o maior desempenho eh: Joana com media igual a: 9.5
+O aluno que apresenta o menor desempenho eh: Carlos com media igual a: 6.3
+
+Notas dos alunos			Nota1		Nota2		Nota3
+
+Maria					6.0			7.0			8.0
+Carlos				7.0			6.0			6.0
+Joana					9.0			9.5		     10.0
+Andre					8.0			8.0			8.0
